@@ -238,6 +238,7 @@ npx ng g pipe my-pipe
 <div grid="~ cols-2 gap-2" m="t-2">
 
 <div>
+
 ```ts
 import { Pipe, PipeTransform } from '@angular/core';
 
